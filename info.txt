@@ -1,0 +1,30 @@
+!pip install kaggle --> will let you install the entire kaggle library
+
+
+!mkdir -p ~/.kaggle  --> mkdir will create a new directory
+!cp kaggle.json ~/.kaggle/ --> cp --> copy the kaggle(api file) into the new directory
+
+!chmod 600 ~/.kaggle/kaggle.json  --> chmod --> it will allow the permission to make changes
+
+
+!kaggle datasets download -d tmdb/tmdb-movie-metadata  --> this will help u by downloading the dataset 
+
+!ls --> will show the list
+
+!unzip tmdb-movie-metadata.zip --> !unzip will unzip the csv file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
